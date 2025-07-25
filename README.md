@@ -13,7 +13,7 @@ com Spring e Microsserviços dividido em 6 microserviços.
 Serviço responsável por realizar o pedido e gerar o evento kafka do pedido criado
 
 ### Como rodar o projeto
-Para rodar o projeto completo é necessário baixar os 6 microsserviços e rodar a partir do arquivo docker-compose que se encontra neo repositório de [customer](https://github.com/MaiconFiuza/customer-microservice)
+Para rodar o projeto completo é necessário baixar os 6 microsserviços e rodar a partir do arquivo docker-compose que se encontra no repositório de [customer](https://github.com/MaiconFiuza/customer-microservice)
 
 #### 1. Fazer o build dos containeres da aplicação:
 Executar o seguinte comando:
