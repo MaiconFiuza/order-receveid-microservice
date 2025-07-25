@@ -1,8 +1,6 @@
-# order-microservice
+# order-received-microservice
 microserviço de gerenciamento de pedido
 
-# customer-microservice
-Post Tech Fiap - Arquitetura e Desenvolvimento em JAVA - Tech Challenger Fase 4
 
 ## FIAP - Tech Challenge - Fase 4
 
